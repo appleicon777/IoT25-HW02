@@ -32,6 +32,7 @@ When the button is pressed, the LED turns on; when released, the LED turns off.
 
 ## Code
 
+```cpp
 const int lp = 5;
 const int bt = 4;
 
