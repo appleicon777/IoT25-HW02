@@ -1,6 +1,6 @@
 # IoT25-HW02
 
-## ✅ Objective  
+## Objective  
 This assignment demonstrates basic digital I/O control using the ESP32 development board.  
 A button is used as a digital input, and an LED is controlled as a digital output.  
 When the button is pressed, the LED turns on; when released, the LED turns off.
